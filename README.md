@@ -46,9 +46,9 @@ class About extends Me {
 
 }
 ```
-<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=17725952283&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
-<img src="https://streak-stats.demolab.com/?user=17725952283&theme=dark&hide_border=true" >
+| <a ><img align="center" src="https://github-stats-ghu9.vercel.app/api?username=17725952283&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a ><img align="center" src="https://github-stats-ghu9.vercel.app/api/top-langs/?username=17725952283&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
