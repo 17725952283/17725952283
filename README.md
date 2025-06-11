@@ -32,7 +32,7 @@
 ![Coze](https://img.shields.io/badge/Coze-0078D7?style=flat&logo=ai&logoColor=white)
 
 ```java
-// 关于我
+
 
 class About extends Me { 
   const mySkills = {  
@@ -47,7 +47,7 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="./images/Developer.gif" width="25" /> &nbsp; Java全栈开发工程师，<img align="right" src="./images/penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="./images/Developer.gif" width="25" /> &nbsp; Java全栈开发工程师。<br>
 - <img src="./images/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; 我擅长Java多线程和并发编程，包括内存优化、线程协同。 <br>
 - <img src="./images/message.gif" width="25" />&nbsp;&nbsp; 熟悉微服务架构，了解机器学习和分布式系统。 <br>
 
