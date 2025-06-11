@@ -1,17 +1,10 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="./images/hellocoders_rounded.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="./images/dev-working_rounded.gif" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<details>
-<p><strong> <summary>  正在编码并享受音乐 :   </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=个人主页访问量)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 <br>
 </div>
 
@@ -50,38 +43,19 @@ class About extends Me {
     "前端技术" : { "HTML", "CSS", "JavaScript", "Vue" },
     "开发工具" : { "IDEA", "Git", "Maven", "ApiPost", "Nginx", "Tomcat" }
   };
-  
-  const myTraits = {
-    "英语能力" : "英语四级，能阅读各种英文资料和API技术文档",
-    "学习能力" : "思路清晰，善于从整体上分析问题，对细节重视",
-    "创新能力" : "具有良好的思维决断能力和创新思维，能够提出创新解决方案",
-    "技术视野" : "在当前技术领域保持学习和实践，持续关注并学习新兴技术和行业趋势"
-  };
+
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; 我是一名Java全栈开发工程师，<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 我擅长Java多线程和并发编程，包括内存优化、线程协同。 <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 熟悉微服务架构，了解机器学习和分布式系统。 <br>
+-  <img alt="GIF" src="./images/Developer.gif" width="25" /> &nbsp; Java全栈开发工程师，<img align="right" src="./images/penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="./images/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; 我擅长Java多线程和并发编程，包括内存优化、线程协同。 <br>
+- <img src="./images/message.gif" width="25" />&nbsp;&nbsp; 熟悉微服务架构，了解机器学习和分布式系统。 <br>
 
 
 
 <div align="center" >
 
 
-<details>
-
-</details>
-  
-<hr></hr>
-
-**代码周期**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="系统崩溃！"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="它能运行了！"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="它能运行但你不知道为什么！"/><br>
 
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
