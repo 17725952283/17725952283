@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<img src="./images/hellocoders_rounded.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="./images/dev-working_rounded.gif" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 
