@@ -46,6 +46,13 @@ class About extends Me {
 
 }
 ```
+<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=17725952283&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+<img src="https://streak-stats.demolab.com/?user=17725952283&theme=dark&hide_border=true" >
+
+
+
+
 
 -  <img alt="GIF" src="./images/Developer.gif" width="25" /> &nbsp; Java全栈开发工程师。<br>
 - <img src="./images/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; 我擅长Java多线程和并发编程，包括内存优化、线程协同。 <br>
