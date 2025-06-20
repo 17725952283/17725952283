@@ -35,7 +35,7 @@ class About extends Me {
 }
 ```
 
-| <a ><img align="center" src="https://github-stats-ghu9.vercel.app/api?username=17725952283&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a ><img align="center" src="https://github-stats-ghu9.vercel.app/api/top-langs/?username=17725952283&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a ><img align="center" src="http://stats.zzwhyzm.xyz/api?username=17725952283&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a ><img align="center" src="http://stats.zzwhyzm.xyz/api/top-langs/?username=17725952283&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
